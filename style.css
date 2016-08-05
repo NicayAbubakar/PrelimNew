@@ -172,3 +172,16 @@ a:hover, a:active{
     color: #FFF;
 }
 
+/*css FOR THE ABOUT PAGE*/
+
+.aboutcontent {
+    width: 98%;
+    float: left;
+    background-color: #FFF;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+   padding: 1% 1%;
+    margin-bottom: 1%;
+}
+
